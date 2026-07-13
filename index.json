@@ -1,0 +1,163 @@
+{
+  "library": "fm-piano2",
+  "format": "opus-48k",
+  "sourceRepo": "https://github.com/zulfikarbarbora-outl/fm-piano2",
+  "previewRepo": "https://github.com/zulfikarbarbora-outl/fm-piano2-opus-48",
+  "branch": "main",
+  "fileCount": 12,
+  "baseUrl": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/",
+  "files": [
+    {
+      "file": "C2v80.opus",
+      "name": "C2v80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/C2v80.opus",
+      "size": 129648,
+      "note": "C2",
+      "midiNote": 36,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C3v80.opus",
+      "name": "C3v80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/C3v80.opus",
+      "size": 97823,
+      "note": "C3",
+      "midiNote": 48,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C4v80.opus",
+      "name": "C4v80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/C4v80.opus",
+      "size": 98433,
+      "note": "C4",
+      "midiNote": 60,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C5v80.opus",
+      "name": "C5v80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/C5v80.opus",
+      "size": 94718,
+      "note": "C5",
+      "midiNote": 72,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C6v80.opus",
+      "name": "C6v80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/C6v80.opus",
+      "size": 87159,
+      "note": "C6",
+      "midiNote": 84,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "C7v80.opus",
+      "name": "C7v80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/C7v80.opus",
+      "size": 93675,
+      "note": "C7",
+      "midiNote": 96,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs1v80.opus",
+      "name": "Fs1v80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/Fs1v80.opus",
+      "size": 181514,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs2v80.opus",
+      "name": "Fs2v80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/Fs2v80.opus",
+      "size": 131872,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs3v80.opus",
+      "name": "Fs3v80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/Fs3v80.opus",
+      "size": 80141,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs4v80.opus",
+      "name": "Fs4v80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/Fs4v80.opus",
+      "size": 91755,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs5v80.opus",
+      "name": "Fs5v80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/Fs5v80.opus",
+      "size": 88203,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    },
+    {
+      "file": "Fs6v80.opus",
+      "name": "Fs6v80.opus",
+      "url": "https://raw.githubusercontent.com/zulfikarbarbora-outl/fm-piano2-opus-48/main/Fs6v80.opus",
+      "size": 82634,
+      "note": null,
+      "midiNote": null,
+      "velocity": null,
+      "dynamic": null,
+      "roundRobin": null
+    }
+  ],
+  "byNote": {
+    "36": [
+      "C2v80.opus"
+    ],
+    "48": [
+      "C3v80.opus"
+    ],
+    "60": [
+      "C4v80.opus"
+    ],
+    "72": [
+      "C5v80.opus"
+    ],
+    "84": [
+      "C6v80.opus"
+    ],
+    "96": [
+      "C7v80.opus"
+    ]
+  }
+}
